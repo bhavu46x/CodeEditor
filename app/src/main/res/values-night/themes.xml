@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.CodeEditor" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.CodeEditor" parent="Base.Theme.CodeEditor" />
+</resources>
